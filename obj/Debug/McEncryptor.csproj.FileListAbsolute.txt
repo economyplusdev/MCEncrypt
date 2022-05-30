@@ -1,0 +1,13 @@
+C:\Users\fodag\Desktop\mctools\McEncryptor\bin\Debug\McEncryptor.exe.config
+C:\Users\fodag\Desktop\mctools\McEncryptor\bin\Debug\McEncryptor.exe
+C:\Users\fodag\Desktop\mctools\McEncryptor\bin\Debug\McEncryptor.pdb
+C:\Users\fodag\Desktop\mctools\McEncryptor\bin\Debug\LibMcCrypt.dll
+C:\Users\fodag\Desktop\mctools\McEncryptor\bin\Debug\Newtonsoft.Json.dll
+C:\Users\fodag\Desktop\mctools\McEncryptor\bin\Debug\LibMcCrypt.pdb
+C:\Users\fodag\Desktop\mctools\McEncryptor\bin\Debug\Newtonsoft.Json.xml
+C:\Users\fodag\Desktop\mctools\McEncryptor\obj\Debug\McEncryptor.csproj.AssemblyReference.cache
+C:\Users\fodag\Desktop\mctools\McEncryptor\obj\Debug\McEncryptor.csproj.SuggestedBindingRedirects.cache
+C:\Users\fodag\Desktop\mctools\McEncryptor\obj\Debug\McEncryptor.csproj.CoreCompileInputs.cache
+C:\Users\fodag\Desktop\mctools\McEncryptor\obj\Debug\McEncryptor.csproj.CopyComplete
+C:\Users\fodag\Desktop\mctools\McEncryptor\obj\Debug\McEncryptor.exe
+C:\Users\fodag\Desktop\mctools\McEncryptor\obj\Debug\McEncryptor.pdb
